@@ -13,11 +13,3 @@ stages:
   - job:
     steps:
     - script: echo "Deploy"
-- stage: Test
-  jobs: 
-  - deployment: A
-    strategy:
-      runOnce:
-        deploy:
-          steps:
-          - script: echo "Hello, world!"
