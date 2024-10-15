@@ -10,3 +10,6 @@ Some text changed
 11
 12
 13
+I've added
+three lines
+right?
