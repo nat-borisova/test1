@@ -15,5 +15,3 @@ three lines
 right?
 one more line
 123
-addd line
-and one line
