@@ -1,1 +1,30 @@
-Some text
+Some text changed
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+I've added
+three lines
+right?
+one more line
+123
+new line
+another one line
+123
+345
+first addition
+second addition
+123
+123
+321
+432123
+21321
+123
+123
