@@ -19,3 +19,5 @@ new line
 another one line
 123
 345
+first addition
+second addition
